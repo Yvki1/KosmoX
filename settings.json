@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "KosmosX",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "KosmosSMP-Ncr2.aternos.me:11218",
+    "port": 11218,
     "version": "",
     "try-creative": false
   },
