@@ -31,6 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
+        "Hi, I'm KosmosX bot"
+        "Welcome!"
       ]
     },
     "chat-log": true,
