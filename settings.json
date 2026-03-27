@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "KosmosSMP-Ncr2.aternos.me:11218",
+    "ip": "KosmosSMP-Ncr2.aternos.me",
     "port": 11218,
     "version": "",
     "try-creative": false
